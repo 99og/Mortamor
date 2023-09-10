@@ -1,5 +1,5 @@
 ---
-## Preview of [Mortamor]() :
+## Preview of [Mortamor]() (Dont copy that) :
 ```python3
 
 #                                                                                       ██████   ██████                     █████                                                
