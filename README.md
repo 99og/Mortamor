@@ -1,5 +1,5 @@
 ---
-## Preview of [Thanatos v1.0]() :
+## Preview of [Mortamor]() :
 ```python3
 
 #                                                   ██████   ██████                     █████                                                
